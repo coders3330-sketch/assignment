@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    height: 60px;
+    width: 100%;
+    /* background-color: rgb(206, 211, 211); */
+   
+}
+
+
+/* .logo{
+    margin-left: 10px;
+    margin-top: -45px;
+} */
+
+.logo > img {
+    height: 125px;
+    width: 130px;
+    margin-top: -90px;
+    margin-left: 60px;
+}
+
+.links{
+    margin-left: 60%;
+    margin-top: -70px;
+    display: flex;
+    gap: 60px;
+    
+}
+
+button{
+    height: 40px;
+    width: 125px;
+    background-color: rgb(111, 82, 214);
+    margin-top: -12px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    margin-left: 30px;
+}
+
+
+.container{
+    height: 85vh;
+    width: 100%;
+    background-color: rgb(123, 79, 192);
+    margin-top: 10px;
+}
+
+
+.para1{
+margin-top: -450px;
+margin-left: 100px;
+color: white;
+}
+
+.heading1{
+    margin-top: 30px;
+    margin-left: 100px;
+    color: white;
+    font-size: 2.3rem;
+}
+
+.heading2{
+    margin-top: 15px;
+    margin-left: 100px;
+    color: white;
+    font-size: 2.3rem;
+}
+
+.fixed{
+    margin-top: 20px;
+}
+
+
+.para2{
+    color: rgba(233, 233, 233, 0.87);
+    /* margin-top: 20px; */
+    margin-left: 100px;
+}
+
+.imag{
+    margin-left: 65%;
+}
+
+.imag>img{
+    height: 400px;
+    width: 400px;
+    margin-top: -260px;
+}
+
+.btn{
+    margin-left: 70px;
+    margin-top: -100px;
+}
+
+
+.btn1{
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+}
